@@ -25,6 +25,3 @@ ___
 
 ___
 
-## Certificate
-![Data Analyst Nanodegree Certificate](https://github.com/xShaimaa/Udacity-Data-Analysis-Nanodegree-FWD/blob/main/cert.png)
-___
